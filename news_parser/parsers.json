@@ -1,0 +1,19 @@
+[{
+    "url": "https://news.mail.ru/rss/main/90/",
+    "script": "./parsers/mail_ru.js"
+}, {
+    "url": "http://feeds.bbci.co.uk/russian/news/rss.xml",
+    "script": "./parsers/bbc_ru.js"
+}, {
+    "url": "http://feeds.feedburner.com/euronews/ru/news/",
+    "script": "./parsers/euronews.js"
+}, {
+    "url": "https://russian.rt.com/rss",
+    "script": "./parsers/russia_today.js"
+}, {
+    "url": "https://news.yandex.ru/index.rss",
+    "script": "./parsers/yandex_ru.js"
+}, {
+    "url": "http://112.ua/rss/index.rss",
+    "script": "./parsers/112.js"
+}]
